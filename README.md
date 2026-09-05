@@ -14,6 +14,6 @@ Bienvenue dans le dépôt de mon **Agent IA spécialisé dans le fitness**. Cet 
 * **Architecture :** RAG (Retrieval-Augmented Generation)
 
 ## 📂 Comment l'utiliser
-1. Téléversez le fichier `app.py` sur votre environnement ou serveur.
+1. Téléversez le fichier `copie_de_objectif_ia_atelier_code_03_09_2026.py` sur votre environnement ou serveur.
 2. Lancez le script pour générer votre lien public Gradio.
 
